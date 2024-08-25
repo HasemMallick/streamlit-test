@@ -1,2 +1,6 @@
 yfinance
 streamlit
+pandas
+matplotlib
+seaborn
+numpy
